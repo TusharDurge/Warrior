@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-//hii all.
+//hii all
 public class NeoStoxDashBoardPage
 {
    @FindBy(xpath = "(//a[text()='OK'])[2]") private WebElement popUpokButton;
